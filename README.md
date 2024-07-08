@@ -119,11 +119,11 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/house-prices-prediction.git
+    git clone https://github.com/nazmul-nil/house-price-prediction.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd house-prices-prediction
+    cd house-price-prediction
     ```
 3. Install the required dependencies (if any):
     ```sh
