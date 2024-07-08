@@ -1,4 +1,3 @@
-# house-price-prediction
 # House Prices: Advanced Regression Techniques
 
 This repository contains the code and data for the House Prices prediction project. The goal is to predict the final sale price of homes in Ames, Iowa using various features of the properties.
